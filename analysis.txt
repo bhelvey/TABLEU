@@ -1,0 +1,7 @@
+One phenomenon that was discovered when looking at the data is that bikes are clearly clustered
+in 4-6 key points around the city. This being important because when a technician or employee goes
+to retrieve bikes makes easier for pickup and servicing of multiple bikes. Time is important because
+we want to maximize profitable bike on road time we need to see when use is at its lowest and
+as shown we can see lowest use time for bikes is between 0100-0400. In addition another phenomenon
+inside the bikes clusters is that there are some bikes that tend to stay in there home cluster of high frequency use.
+So by cycling high use bikes to low use areas this will prevent wear and tear on bikes and frequency of cost to fix bikes.
